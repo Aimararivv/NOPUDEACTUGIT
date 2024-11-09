@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\downloads\\bueno-main\\libreriaxagfrrr\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\downloads\\bueno-main\\libreriaxagfrrr\\data\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:data\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\downloads\\bueno-main\\libreriaxagfrrr\\data\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:data\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\downloads\\bueno-main\\libreriaxagfrrr\\data\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:data\\viewmodels\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\downloads\\bueno-main\\libreriaxagfrrr\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\downloads\\bueno-main\\libreriaxagfrrr\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\downloads\\bueno-main\\libreriaxagfrrr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\downloads\\bueno-main\\libreriaxagfrrr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|c:\\users\\usuario\\downloads\\bueno-main\\libreriaxagfrrr\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4494D6C-77DE-49EF-842E-56D3419C8175}|libreriaXAGFRRR.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cisco01\\Downloads\\AwosXAGFR\\libreriaXAGFRRR\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T04:32:53.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Data\\AppDbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbInitializer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Data\\AppDbInitializer.cs",
+              "RelativeToolTip": "Data\\AppDbInitializer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T04:32:53.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T04:32:53.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookVM.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Data\\ViewModels\\BookVM.cs",
+              "RelativeDocumentMoniker": "Data\\ViewModels\\BookVM.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Data\\ViewModels\\BookVM.cs",
+              "RelativeToolTip": "Data\\ViewModels\\BookVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T04:32:52.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Data\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\BooksService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Data\\Services\\BooksService.cs",
+              "RelativeToolTip": "Data\\Services\\BooksService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T04:32:52.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Data\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Books.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Data\\Models\\Books.cs",
+              "RelativeToolTip": "Data\\Models\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T04:32:52.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T04:32:52.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:04:08.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\BUENO-main\\libreriaXAGFRRR\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwCYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T04:32:52.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\cisco01\\Downloads\\AwosXAGFR\\libreriaXAGFRRR\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\cisco01\\Downloads\\AwosXAGFR\\libreriaXAGFRRR\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\cisco01\\Downloads\\AwosXAGFR\\libreriaXAGFRRR\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\cisco01\\Downloads\\AwosXAGFR\\libreriaXAGFRRR\\WeatherForecast.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T04:32:53.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
